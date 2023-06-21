@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<student_classes>
+    <student_class id="1" sinhvienId="1" lopId="1" />
+    <student_class id="2" sinhvienId="2" lopId="1" />
+    <student_class id="3" sinhvienId="3" lopId="2" />
+</student_classes>

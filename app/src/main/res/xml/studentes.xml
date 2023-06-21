@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <student id="1" name="Bui Van Tung" dob="2001" address="Ha Tay"  namhoc="Nam bon" />
+    <student id="2" name="Bui Van B" dob="2002" address="Ha Noi"  namhoc="Nam ba" />
+    <student id="3" name="Nguyen Thi Thai" dob="2003" address="Thai Binh"  namhoc="Nam hai" />
+</students>
